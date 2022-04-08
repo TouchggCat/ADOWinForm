@@ -108,6 +108,7 @@ namespace ADOWinForm
             Text = "HELLO," + this.textBox1.Text;
             //更有可讀性的寫法,都加this
             this.Text = "HELLO," + this.textBox1.Text;
+            //123
         }
 
         private void button4_Click(object sender, EventArgs e)
